@@ -142,4 +142,4 @@ For Reading full go to official page of [**Forum**]([https://picturepan2.github.
 
 KAMS_scripts 2009 Original by Kam, Odie, Pioneer
 
-KAMS_scripts 2018 Latest by [**Goldfish**]([Goldfish-1994@yandex.ru])
+KAMS_scripts 2018 Latest by [**Goldfish**]([https://vk.com/vk.goldfish])
