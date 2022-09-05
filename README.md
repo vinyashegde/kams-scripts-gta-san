@@ -1,6 +1,17 @@
 # kams-scripts-gta-san
 This is actually a repack of all my GTA modding tools for MAX/GMAX. I had updated the controller script(in Utility Panel) for you to easily access all my scripts.
 
+## Installation
+
+How to Install & Run:
+
+Delete all my old scripts, you don't need them anymore!
+
+Unzip this file in MAX/3DSMAX > scripts folder
+
+All files will go to the right place!
+
+
 ## Features
 
 This GTA Mod Tool includes:
