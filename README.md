@@ -37,9 +37,7 @@ This GTA Mod Tool includes:
 
 
 ## Changes and Updates in 2018:
- - - - - - - - - - - - [ DFF IO ] - - - - - - - - - - - - - - - - -
 
- 
 
 What was added:
 
@@ -137,11 +135,11 @@ What's been fixed:
 - general script code repair
 
 
-For Reading full go to official page of [**Forum**]([https://picturepan2.github.io/spectre](https://gtaforums.com/topic/907323-rel-kams-gta-scripts-2018-upd-31052020/#comments))
+For Reading full go to official page of [**Forum**]([https://picturepan2.github.io/spectre](https://gtaforums.com/topic/907323-rel-kams-gta-scripts-2018-upd-31052020/#comments])
 
 
 ## Authors
 
 KAMS_scripts 2009 Original by Kam, Odie, Pioneer
 
-KAMS_scripts 2018 Latest by [**Goldfish**]([Goldfish-1994@yandex.ru))
+KAMS_scripts 2018 Latest by [**Goldfish**]([Goldfish-1994@yandex.ru])
