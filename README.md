@@ -7,7 +7,7 @@ How to Install & Run:
 
 Delete all my old scripts, you don't need them anymore!
 
-Unzip this file in MAX/3DSMAX > scripts folder
+Unzip this file in 3DSMAX(root folder) > scripts folder
 
 All files will go to the right place!
 
